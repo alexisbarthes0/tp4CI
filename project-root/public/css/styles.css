@@ -1,0 +1,17 @@
+th{
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+img{
+    width:70px;
+    height: 70px;
+}
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {position: relative;}
+footer {position: absolute; bottom: 0;}
